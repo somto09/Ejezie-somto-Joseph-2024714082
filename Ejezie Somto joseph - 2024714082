@@ -1,6 +1,6 @@
-# Grading system
+# Grading system program
 
-score = int(input("Enter the score: "))
+score = int(input("Enter the score:0-100 "))
 
 if score >= 70 and score <= 100:
     Print("Grade: A")
